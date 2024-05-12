@@ -5,7 +5,7 @@ import { ActionSheetController } from '@ionic/angular';
 @Component({
   selector: 'app-tab2',
   templateUrl: 'tab2.page.html',
-  styleUrls: ['tab2.page.scss']
+  styleUrls: ['./tab2.page.scss']
 })
 export class Tab2Page {
 
@@ -27,6 +27,7 @@ export class Tab2Page {
         text: 'Delete',
         role: 'destructive',
         icon: 'trash',
+        cssClass: 'rojo',
         handler: () => {
           this.photoService.deletePicture(photo, position);
         }
