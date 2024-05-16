@@ -1,4 +1,4 @@
-**How to Run**
+###**How to Run**
 
 Clonar este repositorio: https://github.com/iveth-cocha/Prueba.git 
 
@@ -22,4 +22,4 @@ Y entrara a la galeria de fotos
 ![image](https://github.com/iveth-cocha/Prueba/assets/134402331/a3f8eca1-e010-4783-b682-d69fa04bc203)
 
 
-
+###**APK**
