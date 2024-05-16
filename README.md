@@ -1,10 +1,10 @@
-### **How to Run**
+## **How to Run**
 
-Clonar este repositorio: https://github.com/iveth-cocha/Prueba.git 
+1. Clonar este repositorio: https://github.com/iveth-cocha/Prueba.git 
 
-Instale Ionic si es necesario: npm install -g @ionic/cli
+2. Instale Ionic si es necesario: npm install -g @ionic/cli
 
-Instale todos los paquetes si es necesario: npm install
+3. Instale todos los paquetes si es necesario: npm install
 
 Debe de instalarse la extencion de IONIC ya que se va a ocupar y nos ayudara a ejecutar comandos
 
