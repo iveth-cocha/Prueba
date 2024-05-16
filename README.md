@@ -3,7 +3,15 @@
 1. Catani Ariana
 2. Cataña Dennis
 3. Cocha Iveth
-   
+
+## Conclusiones
+
+- Dado que Ionic utiliza su propia interfaz de línea de comandos (CLI) para tareas de desarrollo y construcción, es importante incluir los comandos relevantes de Ionic CLI en las instrucciones de ejecución. Esto puede incluir comandos como ionic serve para ejecutar la aplicación en un navegador web.
+
+- Es necesario el 'ionic build' para compilar la aplicación de su implementación en dispositivos móviles, y otros comandos útiles según sea necesario para la configuración y la gestión del proyecto asi como el splash Screen.
+
+- Hemos logrado completar nuestro trabajo con éxito, cumpliendo cabalmente todos los requisitos necesarios para el funcionamiento adecuado de la galería. Esto incluye la capacidad de capturar imágenes, eliminarlas y guardarlas según lo previsto.
+  
 ## **How to Run**
 
 1. Clonar este repositorio: https://github.com/iveth-cocha/Prueba.git 
