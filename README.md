@@ -3,14 +3,6 @@
 1. Catani Ariana
 2. Cataña Dennis
 3. Cocha Iveth
-
-## Conclusiones
-
-- Dado que Ionic utiliza su propia interfaz de línea de comandos (CLI) para tareas de desarrollo y construcción, es importante incluir los comandos relevantes de Ionic CLI en las instrucciones de ejecución. Esto puede incluir comandos como ionic serve para ejecutar la aplicación en un navegador web.
-
-- Es necesario el 'ionic build' para compilar la aplicación de su implementación en dispositivos móviles, y otros comandos útiles según sea necesario para la configuración y la gestión del proyecto asi como el splash Screen.
-
-- Hemos logrado completar nuestro trabajo con éxito, cumpliendo cabalmente todos los requisitos necesarios para el funcionamiento adecuado de la galería. Esto incluye la capacidad de capturar imágenes, eliminarlas y guardarlas según lo previsto.
   
 ## **How to Run**
 
@@ -40,6 +32,10 @@ Y entrara a la galeria de fotos
 ## **APK Ejecutandose**
 
 ## **Conclusiones**
-1. Para que el deploy funcione correctamente en dispositivos mobiles (android) es importante confijurar unas carpetas que ayudaran a exportar componentes necesarios para su correcto funcionamiento.
-2. Si existe problemas con el Splash screen al momento del deploy es importante verificar que la imagen este en la ruta correcta y que en Andriod Studio se haya exportado correctamente las imagenes, ademas es importante verificar el formato de las imagenes.  
+1.- Para que el deploy funcione correctamente en dispositivos mobiles (android) es importante confijurar unas carpetas que ayudaran a exportar componentes necesarios para su correcto funcionamiento.
+2.- Si existe problemas con el Splash screen al momento del deploy es importante verificar que la imagen este en la ruta correcta y que en Andriod Studio se haya exportado correctamente las imagenes, ademas es importante verificar el formato de las imagenes.  
+3.- Dado que Ionic utiliza su propia interfaz de línea de comandos (CLI) para tareas de desarrollo y construcción, es importante incluir los comandos relevantes de Ionic CLI en las instrucciones de ejecución. Esto puede incluir comandos como ionic serve para ejecutar la aplicación en un navegador web.
 
+4.- Es necesario el 'ionic build' para compilar la aplicación de su implementación en dispositivos móviles, y otros comandos útiles según sea necesario para la configuración y la gestión del proyecto asi como el splash Screen.
+
+5.- Hemos logrado completar nuestro trabajo con éxito, cumpliendo cabalmente todos los requisitos necesarios para el funcionamiento adecuado de la galería. Esto incluye la capacidad de capturar imágenes, eliminarlas y guardarlas según lo previsto.
