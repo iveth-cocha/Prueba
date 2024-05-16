@@ -33,7 +33,9 @@ Y entrara a la galeria de fotos
 
 ## **Conclusiones**
 1.- Para que el deploy funcione correctamente en dispositivos mobiles (android) es importante confijurar unas carpetas que ayudaran a exportar componentes necesarios para su correcto funcionamiento.
+
 2.- Si existe problemas con el Splash screen al momento del deploy es importante verificar que la imagen este en la ruta correcta y que en Andriod Studio se haya exportado correctamente las imagenes, ademas es importante verificar el formato de las imagenes.  
+
 3.- Dado que Ionic utiliza su propia interfaz de línea de comandos (CLI) para tareas de desarrollo y construcción, es importante incluir los comandos relevantes de Ionic CLI en las instrucciones de ejecución. Esto puede incluir comandos como ionic serve para ejecutar la aplicación en un navegador web.
 
 4.- Es necesario el 'ionic build' para compilar la aplicación de su implementación en dispositivos móviles, y otros comandos útiles según sea necesario para la configuración y la gestión del proyecto asi como el splash Screen.
