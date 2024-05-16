@@ -33,5 +33,5 @@ Y entrara a la galeria de fotos
 
 ## **Conclusiones**
 1. Para que el deploy funcione correctamente en dispositivos mobiles (android) es importante confijurar unas carpetas que ayudaran a exportar componentes necesarios para su correcto funcionamiento.
-2. Si existe problemas con el Screen Plash al momento del deploy es importante verificar que la imagen este en la ruta correcta y que en Andriod Studio se haya exportado correctamente las imagenes, ademas es importante verificar el formato de las imagenes.  
+2. Si existe problemas con el Splash screen al momento del deploy es importante verificar que la imagen este en la ruta correcta y que en Andriod Studio se haya exportado correctamente las imagenes, ademas es importante verificar el formato de las imagenes.  
 
