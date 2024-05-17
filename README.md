@@ -30,6 +30,21 @@ Y entrara a la galeria de fotos
 
 
 ## **APK Ejecutandose**
+Una vez que la Pk se encuentre en nuestro dispositivo, podemos ejecutarla.
+1.- Al inicio la applicación muestra una footo de los integrantes del grupo
+![image](https://github.com/iveth-cocha/Prueba/assets/117743828/83a54c42-0299-4756-8b8b-b3b1213be208)
+2.- Luego pasa a la pantalla en donde se encuantra la Galeria, commo aun no hemos usado la cámara no tenemos archivos 
+![image](https://github.com/iveth-cocha/Prueba/assets/117743828/cb3efa8a-7e08-4d45-ac3f-e9dab03bcac6)
+3.- Seleccionamos el icono de camara y nos permite tomar fotos 
+![image](https://github.com/iveth-cocha/Prueba/assets/117743828/1696d402-a7b6-4d91-8bee-cecc5c7befe7)
+4.- La foto se almacena en la memoria de nuestra aplicación, en caso de querer eliminar alguna foto la seleccionamos y nos aparece un menú con la opcion de borrar
+![image](https://github.com/iveth-cocha/Prueba/assets/117743828/c7e2ceb6-f8eb-4a1d-90e8-02144161aa2a)
+5.- como se aprecia la imagen se ha eliminado 
+![image](https://github.com/iveth-cocha/Prueba/assets/117743828/688372ba-33f9-4567-8b5c-1eda657f40aa)
+
+
+
+
 
 ## **Conclusiones**
 1.- Para que el deploy funcione correctamente en dispositivos mobiles (android) es importante confijurar unas carpetas que ayudaran a exportar componentes necesarios para su correcto funcionamiento.
